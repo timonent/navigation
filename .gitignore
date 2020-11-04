@@ -1,0 +1,22 @@
+# Byte-compiled files
+__pycache__
+
+# virtualenv
+venv/
+
+# Editor
+.vscode
+
+# Desktop Services Store
+.DS_Store
+
+# Environment files
+VisualBanana.app
+VisualBanana_Linux
+VisualBanana_Windows_x86*
+
+# Logs
+*.log
+
+# NumPy binary files
+*.npy
