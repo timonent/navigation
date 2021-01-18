@@ -1,6 +1,6 @@
 ## Navigation
 
-This repository contains an implementation of a reinforcement learning agent for a modified version of the "Banana Collectors" environment (provided by Udacity, see their [Deep Reinforcement Learning Nanodegree Program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)) from the v0.3 version of the [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents). The agent is able to solve the environment (see [Reward Scheme](#reward-scheme)) by using only raw pixel inputs.
+This repository contains an implementation of a reinforcement learning agent for a modified version of the "Banana Collectors" environment from the v0.3 version of the [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents). The agent is able to solve the environment (see [Reward Scheme](#reward-scheme)) by using only raw pixel inputs. The environment files are provided by Udacity, see their [Deep Reinforcement Learning Nanodegree Program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
 
 <p align="center">
    <img src="img/trained_agent.gif" width="80%" height=auto>
